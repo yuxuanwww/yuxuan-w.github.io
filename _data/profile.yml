@@ -38,27 +38,67 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Nanyang Technological University
+  logo: /assets/images/badges/ntu.png
+  logowidth: 45px
+  logomarginleft: 5px
+  logomarginright: 15px
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    College of Computing and Data Science <br/>
+    Ph.D. Candidate
+  date: Aug. 2022 - present
+- name: National University of Singapore
+  logo: /assets/images/badges/nus.png
+  logowidth: 45px
+  logomarginleft: 5px
+  logomarginright: 15px
+  position: >- 
+    Electrical and Computer Engineering <br/>
+    Master of Science
+  date: Aug. 2021 - Jun. 2022
+- name: Beihang University
+  logo: /assets/images/badges/buaa.png
+  logowidth: 55px
+  logomarginleft: 0px
+  logomarginright: 10px
+  position: >- 
+    Electronic and Information Engineering <br/>
+    Bacholor of Engineering
+  date: Sep. 2016 - Jun. 2020
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
-
-awards:
-- name: Award Name 2
+experience:
+- name: Tencent, Hunyuan
+  logo: /assets/images/badges/hunyuan-color.svg
+  logowidth: 55px
+  logomarginleft: 0px
+  logomarginright: 10px
+  position: >-
+    3D AIGC Center  <br/>
+    Research Intern
   date: 2024
-- name: Award Name 1 
+- name: Inspur Co., Ltd
+  logo: /assets/images/badges/inspur.png
+  logowidth: 55px
+  logomarginleft: 0px
+  logomarginright: 10px
+  position: >-
+    Inspur International  <br/>
+    Software Develop Intern
   date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: McDonald's
+  logo: /assets/images/badges/mcdonalds.jpg
+  logowidth: 55px
+  logomarginleft: 0px
+  logomarginright: 10px
+  position: >-
+    I'm Lovin' It!  <br/>
+    Fries Cooking Intern
+  date: 2016
+
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
