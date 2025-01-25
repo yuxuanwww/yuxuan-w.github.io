@@ -22,6 +22,6 @@ authors:
   - Hanwang Zhang
 links:
   Arxiv: https://arxiv.org/abs/2403.11868
-  BibTeX: { path: "assets/bib/vcedit.bib.txt" }
+  BibTeX: assets/bib/vcedit.bib.txt
   Project Page: https://vcedit.github.io
 ---

@@ -24,6 +24,6 @@ authors:
 
 links:
   Arxiv: https://arxiv.org/abs/2208.12037
-  BibTeX: { path: "assets/bib/symbolic.bib.txt" }
+  BibTeX: assets/bib/symbolic.bib.txt
   Code: https://github.com/showlab/CLVQA  
 ---

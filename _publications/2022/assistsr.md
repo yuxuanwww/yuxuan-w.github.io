@@ -23,6 +23,6 @@ authors:
 
 links:
   Arxiv: https://arxiv.org/abs/2111.15050
-  BibTeX: { path: "assets/bib/assistsr.bib.txt" }
+  BibTeX: assets/bib/assistsr.bib.txt
   Code: https://github.com/StanLei52/TQVSR  
 ---

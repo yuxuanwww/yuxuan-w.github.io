@@ -17,5 +17,5 @@ authors:
   - Xiaoyuan Liu
 links:
   Arxiv: https://arxiv.org/abs/2403.16184
-  BibTeX: { path: "assets/bib/emnlp.bib.txt" }
+  BibTeX: assets/bib/emnlp.bib.txt
 ---
