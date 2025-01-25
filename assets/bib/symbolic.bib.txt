@@ -1,0 +1,9 @@
+@inproceedings{lei2023symbolic,
+  title={Symbolic replay: Scene graph as prompt for continual learning on vqa task},
+  author={Lei, Stan Weixian and Gao, Difei and Wu, Jay Zhangjie and Wang, Yuxuan and Liu, Wei and Zhang, Mengmi and Shou, Mike Zheng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={37},
+  number={1},
+  pages={1250--1259},
+  year={2023}
+}

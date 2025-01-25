@@ -1,0 +1,8 @@
+@inproceedings{wang2022geb+,
+  title={Geb+: A benchmark for generic event boundary captioning, grounding and retrieval},
+  author={Wang, Yuxuan and Gao, Difei and Yu, Licheng and Lei, Weixian and Feiszli, Matt and Shou, Mike Zheng},
+  booktitle={European Conference on Computer Vision},
+  pages={709--725},
+  year={2022},
+  organization={Springer}
+}

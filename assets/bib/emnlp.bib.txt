@@ -1,0 +1,7 @@
+@inproceedings{wang2024predicate,
+  title={Predicate Debiasing in Vision-Language Models Integration for Scene Graph Generation Enhancement},
+  author={Wang, Yuxuan and Liu, Xiaoyuan},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={1627--1639},
+  year={2024}
+}

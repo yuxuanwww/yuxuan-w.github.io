@@ -1,0 +1,6 @@
+@article{xu2024pushing,
+  title={Pushing Rendering Boundaries: Hard Gaussian Splatting},
+  author={Xu, Qingshan and Cui, Jiequan and Yi, Xuanyu and Wang, Yuxuan and Zhou, Yuan and Ong, Yew-Soon and Zhang, Hanwang},
+  journal={arXiv preprint arXiv:2412.04826},
+  year={2024}
+}

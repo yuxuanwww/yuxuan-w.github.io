@@ -1,0 +1,6 @@
+@article{lei2021assistsr,
+  title={Assistsr: Task-oriented video segment retrieval for personal AI assistant},
+  author={Lei, Stan Weixian and Gao, Difei and Wang, Yuxuan and Mao, Dongxing and Liang, Zihan and Ran, Lingmin and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2111.15050},
+  year={2021}
+}
