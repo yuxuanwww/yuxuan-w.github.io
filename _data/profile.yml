@@ -8,7 +8,7 @@ navbar_name: "Yuxuan Wang"
 # - name: Position 2 without logo
 
 
-email: "ethan.yuxuan.wang@email.com"
+email: "ethan.yuxuan.wang@gmail.com"
 cv_link: assets/resume.pdf
 gscholar: ZsgftFwAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: Yuxuan-W
@@ -33,9 +33,9 @@ short_bio: >-
     His research interest includes but not limited to 3D Generaton, 3D Editing, and Vision-Language Understanding.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: /assets/images/photos/pisa.png
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Nanyang Technological University
@@ -76,6 +76,15 @@ experience:
     3D AIGC Center  <br/>
     Research Intern
   date: 2024
+- name: MReaL Lab, NTU
+  logo: /assets/images/badges/mreal.png
+  logowidth: 55px
+  logomarginleft: 0px
+  logomarginright: 10px
+  position: >-
+    College of Computing and Data Science  <br/>
+    Research Associate
+  date: 2022
 - name: Inspur Co., Ltd
   logo: /assets/images/badges/inspur.png
   logowidth: 55px
@@ -85,15 +94,15 @@ experience:
     Inspur International  <br/>
     Software Develop Intern
   date: 2021
-- name: McDonald's
-  logo: /assets/images/badges/mcdonalds.jpg
-  logowidth: 55px
-  logomarginleft: 0px
-  logomarginright: 10px
-  position: >-
-    I'm Lovin' It!  <br/>
-    Fries Cooking Intern
-  date: 2016
+# - name: McDonald's
+#   logo: /assets/images/badges/mcdonalds.jpg
+#   logowidth: 55px
+#   logomarginleft: 0px
+#   logomarginright: 10px
+#   position: >-
+#     I'm Lovin' It!  <br/>
+#     Fries Cooking Intern
+#   date: 2016
 
 # awards:
 # - name: Award Name 2
