@@ -23,7 +23,7 @@ authors:
   - Long Chen
   - Hanwang Zhang
 links:
-  Arxiv: https://arxiv.org/abs/2412.04826
+  Arxiv: https://arxiv.org/abs/2501.14317
   BibTeX: assets/bib/hardgaussian.bib.txt
   Project Page: https://nautilusmeshgen.github.io
 ---
