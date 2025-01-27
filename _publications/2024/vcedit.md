@@ -23,5 +23,5 @@ authors:
 links:
   Arxiv: https://arxiv.org/abs/2403.11868
   BibTeX: assets/bib/vcedit.bib.txt
-  Project Page: https://vcedit.github.io
+  Code: https://vcedit.github.io
 ---

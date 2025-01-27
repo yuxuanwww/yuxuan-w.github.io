@@ -23,5 +23,5 @@ authors:
 links:
   Arxiv: https://arxiv.org/abs/2204.00486
   BibTeX: assets/bib/gebc.bib.txt
-  Code: https://github.com/showlab/GEB-Plus
+  Code: https://github.com/Yuxuan-W/GEB-Plus
 ---
