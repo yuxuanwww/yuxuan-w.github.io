@@ -1,0 +1,6 @@
+@article{wang2025nautilus,
+  title={Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation},
+  author={Wang, Yuxuan and Yi, Xuanyu and Weng, Haohan and Xu, Qingshan and Wei, Xiaokang and Yang, Xianghui and Guo, Chunchao and Chen, Long and Zhang, Hanwang},
+  journal={arXiv preprint arXiv:2501.14317},
+  year={2025}
+}

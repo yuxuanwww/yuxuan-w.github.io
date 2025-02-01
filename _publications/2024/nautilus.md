@@ -24,6 +24,6 @@ authors:
   - Hanwang Zhang
 links:
   Arxiv: https://arxiv.org/abs/2501.14317
-  BibTeX: assets/bib/hardgaussian.bib.txt
+  BibTeX: assets/bib/nautilus.bib.txt
   Project Page: https://nautilusmeshgen.github.io
 ---
