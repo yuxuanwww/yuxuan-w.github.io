@@ -25,5 +25,5 @@ authors:
 links:
   arXiv: https://arxiv.org/abs/2501.14317
   BibTeX: assets/bib/nautilus.bib.txt
-  Project Page: https://nautilusmeshgen.github.io
+  Code: https://nautilusmeshgen.github.io
 ---
