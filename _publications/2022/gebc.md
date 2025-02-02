@@ -21,7 +21,7 @@ authors:
   - Mike Zheng Shou
 
 links:
-  Arxiv: https://arxiv.org/abs/2204.00486
+  arXiv: https://arxiv.org/abs/2204.00486
   BibTeX: assets/bib/gebc.bib.txt
   Code: https://yuxuan-w.github.io/GEB-plus/
 ---

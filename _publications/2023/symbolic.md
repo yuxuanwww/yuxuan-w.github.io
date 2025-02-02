@@ -23,7 +23,7 @@ authors:
   - Mike Zheng Shou
 
 links:
-  Arxiv: https://arxiv.org/abs/2208.12037
+  arXiv: https://arxiv.org/abs/2208.12037
   BibTeX: assets/bib/symbolic.bib.txt
   Code: https://github.com/showlab/CLVQA  
 ---

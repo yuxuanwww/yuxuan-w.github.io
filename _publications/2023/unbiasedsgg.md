@@ -16,6 +16,6 @@ authors:
   - Yuxuan Wang
   - Xiaoyuan Liu
 links:
-  Arxiv: https://arxiv.org/abs/2403.16184
+  arXiv: https://arxiv.org/abs/2403.16184
   BibTeX: assets/bib/emnlp.bib.txt
 ---

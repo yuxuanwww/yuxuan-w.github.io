@@ -21,7 +21,7 @@ authors:
   - Yew-Soon Ong
   - Hanwang Zhang
 links:
-  Arxiv: https://arxiv.org/abs/2412.04826
+  arXiv: https://arxiv.org/abs/2412.04826
   BibTeX: assets/bib/hardgaussian.bib.txt
   # Code: https://vcedit.github.io
 ---
