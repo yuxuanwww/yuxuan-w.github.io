@@ -1,6 +1,6 @@
 ---
 title:          "AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant"
-date:           2022-05-12 00:01:00 +0800
+date:           1022-05-12 00:01:00 +0800
 selected:       true
 pub:            "Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "

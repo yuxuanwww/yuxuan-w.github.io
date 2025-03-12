@@ -2,10 +2,10 @@
 title:          "Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation"
 date:           2025-05-12 00:01:00 +0800
 selected:       true
-pub:            "ACM SIGGRAPH"
-pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Arxiv</span>'
+pub:            "arXiv Preprint"
+# pub_pre:        "Submitted to "
+pub_post:       ', Under Review'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
 pub_date:       "2025"
 
 abstract: >-

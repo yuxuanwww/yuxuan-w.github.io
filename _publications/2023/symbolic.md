@@ -1,6 +1,6 @@
 ---
 title:          "Symbolic Replay: Scene Graph as Prompt for Continual Learning on VQA Task"
-date:           2022-05-12 00:01:00 +0800
+date:           1022-05-12 00:01:00 +0800
 selected:       true
 pub:            "AAAI Conference on Artifical Intelligence (AAAI)"
 # pub_pre:        "Submitted to "

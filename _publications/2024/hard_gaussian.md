@@ -1,11 +1,11 @@
 ---
 title:          "Pushing Rendering Boundaries: Hard Gaussian Splatting"
-date:           2025-05-12 00:01:00 +0800
+date:           2024-05-11 00:01:00 +0800
 selected:       true
-pub:            "Conference on Computer Vision and Pattern Recognition (CVPR)"
-pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Arxiv</span>'
+pub:            "arXiv Preprint"
+# pub_pre:        "Submitted to "
+pub_post:       ', Under Review'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
 pub_date:       "2025"
 
 abstract: >-
