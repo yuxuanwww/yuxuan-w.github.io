@@ -1,0 +1,6 @@
+@article{wei2025pbr3dgen,
+  title={PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture},
+  author={Wei, Xiaokang and Zhang, Bowen and Yang, Xianghui and Wang, Yuxuan and Guo, Chunchao and Zhao, Xi and Luximon, Yan},
+  journal={arXiv preprint arXiv:2503.11368},
+  year={2025}
+}
