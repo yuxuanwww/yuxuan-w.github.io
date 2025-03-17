@@ -21,7 +21,7 @@ authors:
   - Xi Zhao
   - Yan Luximon
 links:
-  arXiv: #https://arxiv.org/abs/2412.04826
-  # BibTeX: #assets/bib/hardgaussian.bib.txt
-  # Code: #https://vcedit.github.io
+  arXiv: https://arxiv.org/abs/2503.11368
+  BibTeX: assets/bib/pbr3dgen.bib.txt
+  Code: https://pbr3dgen1218.github.io
 ---

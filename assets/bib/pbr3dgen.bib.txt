@@ -1,0 +1,17 @@
+@ARTICLE{2025arXiv250311368W,
+       author = {{Wei}, Xiaokang and {Zhang}, Bowen and {Yang}, Xianghui and {Wang}, Yuxuan and {Guo}, Chunchao and {Zhao}, Xi and {Luximon}, Yan},
+        title = "{PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Computer Vision and Pattern Recognition},
+         year = 2025,
+        month = mar,
+          eid = {arXiv:2503.11368},
+        pages = {arXiv:2503.11368},
+archivePrefix = {arXiv},
+       eprint = {2503.11368},
+ primaryClass = {cs.CV},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2025arXiv250311368W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
