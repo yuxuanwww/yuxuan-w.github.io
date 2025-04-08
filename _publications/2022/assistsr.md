@@ -2,10 +2,10 @@
 title:          "AssistSR: Task-oriented Video Segment Retrieval for Personal AI Assistant"
 date:           1022-05-12 00:01:00 +0800
 selected:       true
-pub:            "Empirical Methods in Natural Language Processing (EMNLP)"
+pub:            "Findings of Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Findings</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">EMNLP</span> <span class="badge badge-pill badge-publication badge-success">Findings</span>'
 pub_date:       "2022"
 
 abstract: >-

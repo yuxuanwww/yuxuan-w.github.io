@@ -5,7 +5,7 @@ selected:       true
 pub:            "Empirical Methods in Natural Language Processing (EMNLP)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Main Conference</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">EMNLP</span>'
 pub_date:       "2024"
 
 abstract: >-

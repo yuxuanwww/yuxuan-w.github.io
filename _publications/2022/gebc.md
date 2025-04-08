@@ -5,7 +5,7 @@ selected:       true
 pub:            "European Conference on Computer Vision (ECCV)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Poster</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">ECCV</span>'
 pub_date:       "2022"
 
 abstract: >-

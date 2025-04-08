@@ -5,7 +5,7 @@ selected:       true
 pub:            "arXiv Preprint"
 # pub_pre:        "Submitted to "
 pub_post:       ', Under Review'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
 pub_date:       "2025"
 
 abstract: >-
