@@ -1,6 +1,6 @@
 ---
 title:          "PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture"
-date:           2024-05-12 00:01:00 +0800
+date:           1024-05-12 00:01:00 +0800
 selected:       true
 pub:            "arXiv Preprint"
 # pub_pre:        "Submitted to "

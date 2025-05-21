@@ -1,6 +1,6 @@
 ---
 title:          "Pushing Rendering Boundaries: Hard Gaussian Splatting"
-date:           2024-05-11 00:01:00 +0800
+date:           1024-05-11 00:01:00 +0800
 selected:       true
 pub:            "arXiv Preprint"
 # pub_pre:        "Submitted to "
