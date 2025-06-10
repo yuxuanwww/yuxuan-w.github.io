@@ -1,0 +1,9 @@
+@misc{zhou2025dragnextrethinkingdragbasedimage,
+      title={DragNeXt: Rethinking Drag-Based Image Editing}, 
+      author={Yuan Zhou and Junbao Zhou and Qingshan Xu and Kesen Zhao and Yuxuan Wang and Hao Fei and Richang Hong and Hanwang Zhang},
+      year={2025},
+      eprint={2506.07611},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.07611}, 
+}

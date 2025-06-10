@@ -1,9 +1,6 @@
-@misc{wang2025personalizegaussianconsistent3d,
-      title={Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image}, 
-      author={Yuxuan Wang and Xuanyu Yi and Qingshan Xu and Yuan Zhou and Long Chen and Hanwang Zhang},
-      year={2025},
-      eprint={2505.14537},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.14537}, 
+@article{wang2025personalize,
+  title={Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image},
+  author={Wang, Yuxuan and Yi, Xuanyu and Xu, Qingshan and Zhou, Yuan and Chen, Long and Zhang, Hanwang},
+  journal={arXiv preprint arXiv:2505.14537},
+  year={2025}
 }
