@@ -2,9 +2,9 @@
 title:          "Nautilus: Locality-aware Autoencoder for Scalable Mesh Generation"
 date:           2025-05-12 00:01:00 +0800
 selected:       true
-pub:            "arXiv Preprint"
+pub:            "International Conference on Computer Vision (ICCV)"
 # pub_pre:        "Submitted to "
-pub_post:       ', Under Review'
+# pub_post:       ', Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
 pub_date:       "2025"
 
