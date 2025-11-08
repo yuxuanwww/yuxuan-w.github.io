@@ -2,11 +2,11 @@
 title:          "Personalize Your Gaussian: Consistent 3D Scene Personalization from a Single Image"
 date:           2025-5-20 00:01:00 +0800
 selected:       true
-pub:            "arXiv Preprint"
+pub:            "AAAI Conference on Artifical Intelligence (AAAI),"
 # pub_pre:        "Submitted to "
-pub_post:       ', Under Review'
+# pub_post:       ', Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
-pub_date:       "2025"
+pub_date:       "2026"
 
 
 abstract: >-

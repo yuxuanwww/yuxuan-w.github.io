@@ -2,11 +2,11 @@
 title:          "PBR3DGen: A VLM-guided Mesh Generation with High-quality PBR Texture"
 date:           1024-05-12 00:01:00 +0800
 selected:       true
-pub:            "arXiv Preprint"
+pub:            "AAAI Conference on Artifical Intelligence (AAAI),"
 # pub_pre:        "Submitted to "
-pub_post:       ', Under Review'
+# pub_post:       ', Under Review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-info">Preprint</span>'
-pub_date:       "2025"
+pub_date:       "2026"
 
 abstract: >-
   In this work, we present PBR3DGen, a two-stage mesh generation method with high-quality PBR materials that integrates the novel multi-view PBR material estimation model and a 3D PBR mesh reconstruction model.
