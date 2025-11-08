@@ -1,5 +1,5 @@
 ---
-title:          "GEB+: A Benchmark for Generic Event Boundary Captioning, Groundingand Retrieval"
+title:          "GEB+: A Benchmark for Generic Event Boundary Captioning, Grounding and Retrieval"
 date:           2022-05-12 00:01:00 +0800
 selected:       true
 pub:            "European Conference on Computer Vision (ECCV)"
