@@ -70,34 +70,34 @@ education:
     Bachelor of Engineering
   date: Sep. 2016 - Jun. 2020
 
-experience:
-- name: Tencent, Hunyuan
-  logo: /assets/images/badges/hunyuan-color.svg
-  logowidth: 55px
-  logomarginleft: 0px
-  logomarginright: 10px
-  position: >-
-    3D AIGC Center  <br/>
-    Research Intern
-  date: 2024
-- name: MReaL Lab, NTU
-  logo: /assets/images/badges/mreal.png
-  logowidth: 55px
-  logomarginleft: 0px
-  logomarginright: 10px
-  position: >-
-    College of Computing and Data Science  <br/>
-    Research Associate
-  date: 2022
-- name: Inspur Co., Ltd
-  logo: /assets/images/badges/inspur.png
-  logowidth: 55px
-  logomarginleft: 0px
-  logomarginright: 10px
-  position: >-
-    Inspur International  <br/>
-    Software Develop Intern
-  date: 2021
+# experience:
+# - name: Tencent, Hunyuan
+#   logo: /assets/images/badges/hunyuan-color.svg
+#   logowidth: 55px
+#   logomarginleft: 0px
+#   logomarginright: 10px
+#   position: >-
+#     3D AIGC Center  <br/>
+#     Research Intern
+#   date: 2024
+# - name: MReaL Lab, NTU
+#   logo: /assets/images/badges/mreal.png
+#   logowidth: 55px
+#   logomarginleft: 0px
+#   logomarginright: 10px
+#   position: >-
+#     College of Computing and Data Science  <br/>
+#     Research Associate
+#   date: 2022
+# - name: Inspur Co., Ltd
+#   logo: /assets/images/badges/inspur.png
+#   logowidth: 55px
+#   logomarginleft: 0px
+#   logomarginright: 10px
+#   position: >-
+#     Inspur International  <br/>
+#     Software Develop Intern
+#   date: 2021
 # - name: McDonald's
 #   logo: /assets/images/badges/mcdonalds.jpg
 #   logowidth: 55px
